@@ -1,0 +1,15 @@
+Search by ID - Average Response Time for 100 calls: 0.02211019992828369 seconds
+Search by ID - Standard Deviation for 100 calls: 0.01898577041036138 seconds
+---------------------------------------------------
+Search by Key-Value Pair - Average Response Time for 100 calls: 0.023590428829193114 seconds
+Search by Key-Value Pair - Standard Deviation for 100 calls: 0.02197730034645888 seconds
+---------------------------------------------------
+Search within a Range - Average Response Time for 100 calls: 0.0003346061706542969 seconds
+Search within a Range - Standard Deviation for 100 calls: 0.00017766412759579332 seconds
+---------------------------------------------------
+Calculate Percentile - Average Response Time for 100 calls: 0.022787318229675294 seconds
+Calculate Percentile - Standard Deviation for 100 calls: 0.02081288973158473 seconds
+---------------------------------------------------
+Update Value - Average Response Time for 100 calls: 0.04352011442184448 seconds
+Update Value - Standard Deviation for 100 calls: 0.027855735653561694 seconds
+---------------------------------------------------
